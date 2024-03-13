@@ -1,0 +1,15 @@
+[safe]
+	directory = /opt/homebrew
+	directory = /opt/homebrew
+	directory = /opt/homebrew/Library/Taps/homebrew/homebrew-core/
+	directory = /opt/homebrew/Library/Taps/homebrew/homebrew-cask/
+	directory = /opt/homebrew/Library/Taps/homebrew/homebrew-services/
+	directory = /opt/homebrew
+	directory = /opt/homebrew/Library/Taps/homebrew/homebrew-core/
+	directory = /opt/homebrew/Library/Taps/homebrew/homebrew-cask/
+	directory = /opt/homebrew/Library/Taps/homebrew/homebrew-services/
+[user]
+	name = liupan
+	email = 2242701798@qq.com
+[core]
+	excludesfile  = /Users/liu/Desktop/Transfer learning/main code/Bayesian-transfer-learning/.gitignore
